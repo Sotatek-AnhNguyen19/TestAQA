@@ -38,3 +38,6 @@ def combine ():
         print (parsePrice(i[2]))
 
 combine()
+
+
+
